@@ -6,7 +6,8 @@ namespace cristian
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Jose es nazi");
+            Console.ReadLine();
         }
     }
 }
